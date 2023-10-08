@@ -8,3 +8,4 @@
 2. [Bishak Dey](https://github.com/bishakdey)
 3. Prateek singh
 4. Vinayak
+5. Mohammad Zaid(https://github.com/Zed0000078)
